@@ -1,0 +1,13 @@
+A ideia do nosso projeto foi desenvolver um sensor de colisão/bumper que, quando acionado, gerasse a 
+paralisação do movimento do robô. Para isso, primeiro incorporamos uma espécie de para-choques na carcaça do 
+robô, com dois sensores expostos na dianteira, para detectar quaisquer contatos frontais. Após isso, 
+delimitamos a área sensível à colisão e adicionamos um objeto cúbico no cenário para testar o funcionamento 
+do sensor. Criamos um script nomeado “BumperSensor.cs” em que estabelecemos as regras necessárias para sua operação. 
+Como resultado, simulamos a cena e obtivemos as respostas conforme esperadas. 
+
+
+Desenvolvido por:
+Guilherme Melo
+Giovani Ferreira
+Luccas Cardoso
+Matheus Pacheco
